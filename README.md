@@ -2,7 +2,7 @@
 > If you find our repository useful don't forget to star!
 
 <h3 align="center">
-  <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="256" alt="Playboi Carti">
 </h3>
 
 <h1 align="center">#RBXFLAG$</h1>
