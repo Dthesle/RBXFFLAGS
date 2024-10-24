@@ -5,7 +5,7 @@
   <img src="https://seeklogo.com/images/R/roblox-logo-1D1B091426-seeklogo.com.png" width="256" alt="Roblox">
 </h3>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/bloxstraplabs/bloxstrap/refs/heads/main/Images/Bloxstrap.png" width="24" alt="Bloxstrap"> #RBXFLAG$</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/bloxstraplabs/bloxstrap/refs/heads/main/Images/Bloxstrap.png" width="24" alt="Bloxstrap"> Roblox Fast Flags</h1>
 
 <div align="center">
 
