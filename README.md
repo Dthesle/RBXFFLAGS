@@ -5,25 +5,24 @@
   <img src="https://repository-images.githubusercontent.com/787989253/404b55e9-e1fa-4e16-83f8-0d3e37b2bab7" width="256" alt="catpfp">
 </h3>
 
-<h1>Roblox Fast Flags</h1>
+<h1 align="center">Roblox Fast Flags</h1>
 
 <div align="center">
 
 `fastvariable thought he was slick - 10/24/24 update`
 
-<h3 align="center">View Here</h3>
+<h3 align="center">view his paywalled fast flags server here</h3>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
 
-<h3 align="center">tell pizzaboxer to make good updates</h3>
+<h3 align="center">tell fastvariable to make good decisions</h3>
 
-#### Version: `10.10.24` `F R E A K`
+#### Version: `10.24.24` `F R E A K`
 * **200 Currently Listed**
 * **Removed 28 FastFlags**
 * **`Slide on Terrain/Meshes`**
 * **`Self Explanatory 10`**
 * **`Self Explanatory 11`**
 * **`break everything`**
-* **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## List Meanings
 **✨ - sOmethin rare hArd to get > like a holy treAsure its dat one thIng you gotta hAve could be a shoe a cAr or a piece of arT + everybody wAnts it but only a fEw get it = it’s dat uLtimate find ya feel me?**
@@ -34,7 +33,7 @@
 3. **Paste** in the **JSON**.
 4. **Save** and your good to go!
 
-<img src="/assets/tutorial260.gif" width="750"/>
+<img src="https://github.com/espresso-soft/latteflags/assets/tutorial260.gif" width="750"/>
 
 ## Normal Roblox Bootstrapper How to Use:
 ###### You can also do Roblox Studio
@@ -68,19 +67,19 @@
 4. Your configuration is **complete**!**
 
 # List Navigation
-* **[Rendering](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#lightning-technologies)**
-* **[Graphical](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
-* **[Abusive Game Presets](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
-* **[lol](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#rendering)**
+* **[Lightning Technologies](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#lightning-technologies)**
+* **[Graphical](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#graphical-settings)**
+* **[Quality of Life](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#quality-of-life)**
+* **[UI](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
+* **[UI X](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[Audio](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#audio-related)**
+* **[Physics](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#physics-abusive)**
+* **[Abusive Visuals](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#abusive-visuals)**
+* **[Abusive Game Presets](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
+* **[lol](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#lol)**
+* **[Debug](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#debug)**
+* **[Links](https://github.com/Dthesle/RobloxFastFlags/tree/master?tab=readme-ov-file#links)**
 
 <div align="center">
 
@@ -162,7 +161,7 @@ Wish it was different than what it was
 }
 ```
 
-<h1 align="center">Graphical Settings</h1>
+<h1 align="left">Graphical Settings</h1>
 
 ### Increased Grass Motion & No Grass Motion
 ```json
