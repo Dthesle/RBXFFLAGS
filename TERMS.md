@@ -1,8 +1,8 @@
 <h3 align="center">
-  <img src="[assets/lattestrap.gif](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGj_CLIkthIu6I4zpjWvaJFaBcDVeyvBqncuVrThQcHkA03ZGNHYfYA5FErV1Q7aWu9tYT)" width="256" alt="Roblox">
+  <img src="https://repository-images.githubusercontent.com/787989253/404b55e9-e1fa-4e16-83f8-0d3e37b2bab7" width="256" alt="cat">
 </h3>
 
-<h1 align="center">#RBXFLAG$</h1>
+<h1 align="center">Roblox FFlags</h1>
 <h2 align="center">Repository Intent</h2>
 
 * This list exists purely for the purposes of learning more about the inner workings of our favourite games.
@@ -30,6 +30,6 @@ As stated in this repository's Terms and Conditions, by using the information in
 By accessing this repository, you agree that you have read and agree with this repository's Terms and Conditions. If you do not agree, cease accessing this rentry immediately.
 
 <h3 align="center">
-  <img src="assets/espresso_soft.jpeg" width="128" alt="Espresso Softworks">
+  <img src="https://repository-images.githubusercontent.com/787989253/404b55e9-e1fa-4e16-83f8-0d3e37b2bab7" width="128" alt="Espresso Shitworks">
 </h3>
-<h4 align="center">© 2024 Espresso Softworks All Rights Reserved.</h4>
+<h4 align="center">© 2024 Dthesle ( + Espresso Shitworks) All Rights Reserved.</h4>
