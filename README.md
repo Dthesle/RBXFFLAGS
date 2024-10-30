@@ -1734,4 +1734,4 @@ High
 -->
 
 </div>
-<h4 align="center">© 2024 Espresso Softworks All Rights Reserved.</h4>
+<h4 align="center">© 2024 Dthesle ( + Espresso Shitworks) All Rights Unreserved.</h4>
