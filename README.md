@@ -7,7 +7,7 @@
 
 <h1 align="center">Roblox Fast Flags</h1>
 
-<div align="center">
+<div align="left">
 
 `fastvariable thought he was slick - 10/24/24 update`
 
