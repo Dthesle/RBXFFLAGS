@@ -1,17 +1,17 @@
 > [!NOTE]
-> If you find our repository useful don't forget to star!
+> If you find the repository useful don't forget to star I guess.
 
 <h3 align="center">
-  <img src="https://seeklogo.com/images/R/roblox-logo-1D1B091426-seeklogo.com.png" width="256" alt="Roblox">
+  <img src="https://repository-images.githubusercontent.com/787989253/404b55e9-e1fa-4e16-83f8-0d3e37b2bab7" width="256" alt="catpfp">
 </h3>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/bloxstraplabs/bloxstrap/refs/heads/main/Images/Bloxstrap.png" width="24" alt="Bloxstrap"> Roblox Fast Flags</h1>
+<h1>Roblox Fast Flags</h1>
 
 <div align="center">
 
-`fastvariable thought he was slick`
+`fastvariable thought he was slick - 10/24/24 update`
 
-<h3 align="center">his server ig</h3>
+<h3 align="center">View Here</h3>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
 
 <h3 align="center">tell pizzaboxer to make good updates</h3>
@@ -1731,6 +1731,8 @@ High
   [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/espresso-soft/rbxflags/blob/main/LICENSE)
   [![Version](https://img.shields.io/github/v/release/espresso-soft/rbxflags?color=7a39fb)](https://github.com/espresso-soft/rbxflags/releases/latest)
   [![Discord](https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/HNe7fzR9xg)
+
+-->
 
 </div>
 <h4 align="center">© 2024 Espresso Softworks All Rights Reserved.</h4>
