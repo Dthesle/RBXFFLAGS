@@ -17,12 +17,12 @@
 <h3 align="center">tell fastvariable to make good decisions</h3>
 
 #### Version: `10.24.24` `F R E A K`
-* **200 Currently Listed**
-* **Removed 28 FastFlags**
-* **`Slide on Terrain/Meshes`**
-* **`Self Explanatory 10`**
-* **`Self Explanatory 11`**
-* **`break everything`**
+- **200 Currently Listed**
+- **Removed 28 FastFlags**
+- **`Slide on Terrain/Meshes`**
+- **`Self Explanatory 10`**
+- **`Self Explanatory 11`**
+- **`break everything`**
 
 ## List Meanings
 **✨ - sOmethin rare hArd to get > like a holy treAsure its dat one thIng you gotta hAve could be a shoe a cAr or a piece of arT + everybody wAnts it but only a fEw get it = it’s dat uLtimate find ya feel me?**
