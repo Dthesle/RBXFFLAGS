@@ -9,7 +9,8 @@
 
 <div align="left">
 
-`fastvariable thought he was slick - 10/24/24 update`
+<h3 align="center">~ fastvariable thought he was slick -</h3>
+<h3 align="center">list version - 10/24/24</h3>
 
 <h3 align="center">view his paywalled fast flags server here</h3>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
